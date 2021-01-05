@@ -16,13 +16,9 @@ class CardSection extends Component {
                 <div class="directText">
                     <h1> About me </h1>
                     <div>
-                        I am a third-year student at the University of Waterloo's Honours, Computer Science, Co-operative Program.
-                        I enjoy learning about all aspects of computer science, but I have a keen interest in machine learning and 
-                        cybersecurity. <br></br>
-                        Furthermore, I am interested in fullstack development, and I have experience with the MERN stack in developing a CRUD
-                        application (see "Daily-Dones"). <br></br><br></br>
+                        I am a third-year student at the University of Waterloo's Honours, Computer Science, Co-operative Program. <br></br><br></br>
 
-                        Please keep scrolling to see the most significant personal projects that I have worked on. <br></br>
+                        <b>Please keep scrolling to see the most significant personal projects that I have worked on.</b> <br></br>
                         And <a href = "https://github.com/AnudeepDasAD?tab=repositories">visit</a> my GitHub for even more.
                     </div>
                 </div>
@@ -79,7 +75,7 @@ class CardSection extends Component {
                                 <br></br><br></br>
                                 Further enhanced by additional keylogging, remote webcam access, and remote screen shot capabilities.
                                 <br></br><br></br>
-                                <b> Image depicts screenshot and webcam live feed received from a connected machine</b>
+                                <b> Image depicts screenshot of client's webpage (Google.com) and webcam live feed received from a connected machine</b>
                             </div>
                         </div>
                     </section>

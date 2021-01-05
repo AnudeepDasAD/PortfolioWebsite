@@ -8,8 +8,8 @@ class ParallaxBackground extends Component {
                 <h1> Anudeep Das </h1>
                 <div>
                     Machine Learning<br></br>
-                    Network Automation <br></br>
                     Cybersecurity <br></br>
+                    Network Automation <br></br>
                     Fullstack development <br></br>
                     Android Development <br></br>
                 </div>
