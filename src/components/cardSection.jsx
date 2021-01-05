@@ -21,8 +21,6 @@ class CardSection extends Component {
                         cybersecurity. <br></br>
                         Furthermore, I am interested in fullstack development, and I have experience with the MERN stack in developing a CRUD
                         application (see "Daily-Dones"). <br></br><br></br>
-                        Through my co-op experiences, I have had the privilege of learning in both fields, 
-                        and I hope to hone my knowledge in these areas further.<br></br><br></br>
 
                         Please keep scrolling to see the most significant personal projects that I have worked on. <br></br>
                         And <a href = "https://github.com/AnudeepDasAD?tab=repositories">visit</a> my GitHub for even more.
